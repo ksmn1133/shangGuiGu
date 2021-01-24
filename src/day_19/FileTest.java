@@ -18,6 +18,6 @@ public class FileTest {
 
         System.out.println("=========================");
         System.out.println(file.length());
-        System.out.println("this is my first time use vcs in idea");
+        System.out.println("hello world");
     }
 }
